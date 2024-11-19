@@ -1,6 +1,6 @@
 # Carregar o mapa:
 
-Então, primeiro, no ficheiro "principal_alunos.py", na função "carrega_jogo" criei um loop que lê o ficheiro e cria uma lista com o conteúdo do mesmo (no caso é um mapa) e atualizei o dicionário "estado_jogo" na key "mapa" com essa lista que criei.
+Então, primeiro, no ficheiro "principal_alunos.py", na função "carrega_jogo" criei um loop que lê o ficheiro e cria uma lista com o conteúdo do mesmo (no caso é um mapa) e atualizei o dicionário "estado_jogo" na key "mapa" com essa lista que criei. olakdajondahdnn
 
 #------------------------
 ```
